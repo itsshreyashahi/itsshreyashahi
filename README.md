@@ -4,8 +4,8 @@
 
 
  -I'm Currently workng on
-System Design and Distributed Computing
-Software Engineering
+-Machine Learning
+-Software Engineering
 
 
 <!---
