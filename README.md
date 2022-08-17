@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya
- Currently in Pre-Final Year, pursuing Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Sathybama IST.
+- Currently in Pre-Final Year, pursuing Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Sathybama IST.
  
 
 
