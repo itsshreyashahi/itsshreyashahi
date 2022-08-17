@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreya Shahi.
 - Currently in Pre-Final Year, pursuing Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Sathyabama IST.
- 
+- Robotics Club Vice-President @SIST (2022-2023) 
 
 
 <!---
